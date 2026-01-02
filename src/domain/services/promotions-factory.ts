@@ -1,4 +1,4 @@
-import { BulkDiscountPromotion } from '../../../../prompts/bulk-discount.promotion';
+import { BulkDiscountPromotion } from '../promotions/bulk-discount.promotion';
 import { type Promotion } from '../interfaces/promotion.interface';
 import { NForMPromotion } from '../promotions/n-for-m.promotion';
 import { type PromotionsConfig } from '../promotions/promotions.config';
